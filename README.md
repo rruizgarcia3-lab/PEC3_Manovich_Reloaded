@@ -191,6 +191,8 @@ https://library.oapen.org/handle/20.500.12657/58738
 
 ## Uso de inteligencia artificial
 
-Para la elaboración de esta PEC se ha utilizado ChatGPT como herramienta de apoyo para comprender el enunciado de la actividad, organizar la estructura inicial del trabajo, seleccionar posibles enfoques de análisis, aclarar conceptos relacionados con la hibridación de medios y revisar la claridad de la redacción. La selección definitiva de los casos, la organización del contenido, la revisión final y la adaptación del texto han sido realizadas personalmente por el autor/a.
+Uso de inteligencia artificial
 
-El uso de la inteligencia artificial se ha limitado a funciones de apoyo, orientación y revisión, siguiendo las indicaciones de la actividad. El contenido final debe entenderse como una elaboración personal a partir de las fuentes consultadas y de los conceptos trabajados en la asignatura.
+Durante la elaboración de esta PEC se ha utilizado ChatGPT de forma puntual como herramienta de apoyo para aclarar dudas sobre el enunciado, ordenar las fases del trabajo y revisar algunos aspectos generales de redacción.
+
+La selección de los casos, la búsqueda de fuentes, la organización final del contenido y la redacción definitiva han sido revisadas y adaptadas personalmente. El uso de la IA no ha sustituido el proceso de análisis propio, sino que ha servido como ayuda complementaria en la planificación y revisión del trabajo.
