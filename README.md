@@ -191,8 +191,6 @@ https://library.oapen.org/handle/20.500.12657/58738
 
 ## Uso de inteligencia artificial
 
-Uso de inteligencia artificial
-
 Durante la elaboración de esta PEC se ha utilizado ChatGPT de forma puntual como herramienta de apoyo para aclarar dudas sobre el enunciado, ordenar las fases del trabajo y revisar algunos aspectos generales de redacción.
 
 La selección de los casos, la búsqueda de fuentes, la organización final del contenido y la redacción definitiva han sido revisadas y adaptadas personalmente. El uso de la IA no ha sustituido el proceso de análisis propio, sino que ha servido como ayuda complementaria en la planificación y revisión del trabajo.
